@@ -27,6 +27,7 @@ main .container {
   border-radius: 20px;
 }
 main .container img {
+  position: relative;
   width: 91%;
   border-radius: 10px;
   margin: auto;
